@@ -2,10 +2,12 @@
 title: "Mapa1-ArticuloOP"
 author: "Joan J Martinez"
 date: "6/7/2020"
-output: html_document
+output: html_document:
+        toc: true
+        theme: united
 ---
 ---
-title: "Datos Departamentales"
+title: "Mapa 1"
 ---
 
 ```{r setup, include=FALSE}
@@ -20,3 +22,4 @@ library(rio)
 ```{r Diresa-map1}
 shiny::includeHTML("./mapa1_bono_covid.html")
 ```
+
