@@ -8,9 +8,11 @@ Las visualizaciones interactivas de este repositorio se encuentran aquí:
 https://htmlpreview.github.io/?https://github.com/jjennifer/peru-covid19-datalab/blob/master/mapas-interactivos/mapa1_bono_covid.html
 
 <b>Mapa 2 - Porcentaje de hogares a nivel distrital que recibieron 'Bono Independientes' </b> 
+
 https://htmlpreview.github.io/?https://github.com/jjennifer/peru-covid19-datalab/blob/master/mapas-interactivos/mapa2_bono_independientes.html
 
-Mapa 3 - Cobertura de Mapa de Pobreza (2018) por medio de transferencias monetarias
+<b>Mapa 3 - Cobertura de Mapa de Pobreza (2018) por medio de transferencias monetarias </b>
+
 https://htmlpreview.github.io/?https://github.com/jjennifer/peru-covid19-datalab/blob/master/mapas-interactivos/mapa3_bono_pobreza.html
 
 ---------------------------------------------------------------------------------------------------------------------------
